@@ -3,7 +3,7 @@
 ResourcePack: **https://modrinth.com/resourcepack/throwing-disc-classic**
 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/max5pCJaRrY" title="Lanceur de vidéo YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube-nocookie.com/embed/max5pCJaRrY
 
 [![modrinth](https://cdn.modrinth.com/data/cached_images/88bd7b55cd5062e71281d38d9058f03e5118f16e.png)](https://modrinth.com/user/Totomag0)
 [![github](https://cdn.modrinth.com/data/cached_images/2f1f8bc16d5120dae0ea4d03578c6705f3bb7efb.png)](https://github.com/Totomag0/Throwing-Disc-Datapack/issues/1)
